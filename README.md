@@ -9,3 +9,5 @@
 **mentions** => the other property that is useful for nesting items within your collection page is mentions and this is a really popular property to use because the value can be anything, in the schema.org vocabulary. 
 
 **author** => the next property I'd like to highlight is author you can also use a creator you can also use publisher the point being though is that the author or those other properties I mentioned allow you to connect the organization  or the brand information of the publisher.
+
+**significantLink** => usually there's lots of links on these types of pages to other parts of your website
