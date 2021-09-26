@@ -11,3 +11,7 @@
 **author** => the next property I'd like to highlight is author you can also use a creator you can also use publisher the point being though is that the author or those other properties I mentioned allow you to connect the organization  or the brand information of the publisher.
 
 **significantLink** => usually there's lots of links on these types of pages to other parts of your website
+
+
+
+So in summary collection page is wonderful schema class to use when your page has lots going on or many things that are all equally important or there's no real heirarchy but you want to call them all out in one big block of json-ld
